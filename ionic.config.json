@@ -1,0 +1,7 @@
+{
+  "name": "responsi_pemob_e",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
